@@ -1,4 +1,4 @@
-# Welkom bij de Jupyter Book demo
+# Welkom bij de Jupyter Book demo van Eelco
 
 *Jupyter Book* biedt veel mogelijkheden voor het publiceren van het informatica *keuzethema's* materiaal.
 Dit *Jupyter Book* toont een aantal van de mogelijkheden, en beschrijft de infrastructuur die i&i opgezet heeft voor docenten/auteurs.
